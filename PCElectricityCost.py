@@ -1,4 +1,4 @@
-currency = input('What currency you want to display(USD,GBP,EUR)? ').upper()
+currency = input('What currency you want to display(USD,GBP)? ').upper()
 
 pc_power_supply = int(input('How many watts is your power supply: '))
 device_working_time = int(input('How many hours do you use your computer per day: '))
